@@ -1,0 +1,2 @@
+# PromptArmor has no external dependencies — stdlib only.
+# Python 3.10+ required for type union syntax (str | Path).
